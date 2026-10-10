@@ -1,4 +1,4 @@
-﻿
+
 using tyuiu.cources.programming.interfaces.Sprint2;
 
 namespace Tyuiu.UsoltsevME.Sprint2.Task6.V14.Lib
