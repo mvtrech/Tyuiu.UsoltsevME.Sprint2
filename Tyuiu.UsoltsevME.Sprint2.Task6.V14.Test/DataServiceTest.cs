@@ -1,4 +1,4 @@
-﻿
+
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Tyuiu.UsoltsevME.Sprint2.Task6.V14.Lib;
 
